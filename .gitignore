@@ -1,1 +1,4 @@
 node_modules
+.angular/cache/17.2.3/angular.io-example/.tsbuildinfo
+.angular/cache/17.2.3/vite/deps/_metadata.json
+src/app/product-list/product-list.component.html
